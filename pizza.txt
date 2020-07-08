@@ -7,3 +7,6 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+4. Go to PizzaHut.com
+5. Select the pizza.
+6. Order
